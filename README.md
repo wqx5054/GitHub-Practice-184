@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
+| Wen Qi Xie        | Section 101       | wqx5054         | <https://wqx5054.github.io/Practice-184/> |
 
 <br>
 
