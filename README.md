@@ -54,6 +54,7 @@
 | Heyi Xu           | Section 101       | heyamheyi       |  <https://heyamheyi.github.io/Stat-184-practice/>  |
 | Randy Silverman   | Section 101       | ras6262         |  <https://ras6262.github.io/Stat184-Demo/> |
 | Shruti Mahadevan  | Section 101       | shrutipsu       |  <https://shrutipsu.github.io/Github-Practice/> |
+| Wen Qi Xie        | Section 101       | wqx5054         |  <https://wqx5054.github.io/Practice-184/>    |
 
 <br>
 
